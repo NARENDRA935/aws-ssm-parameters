@@ -6,7 +6,7 @@ variable "parameters" {
   default = {
     "dev.expense.rds.username" = "admin1"
     "dev.expense.rds.endpoint" = "dev-expense-rds.cf0qiem2mbdy.us-east-1.rds.amazonaws.com"
-    "dev.expense.frontend.backend_endpoint" = "http://backend-dev.narendrat.online/"
+    "dev.expense.frontend.backend_endpoint" = "https://backend-dev.narendrat.online/"
   }
 }
 ##
